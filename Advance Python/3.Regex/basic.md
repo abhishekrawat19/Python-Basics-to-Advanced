@@ -149,4 +149,4 @@
 ---
 
 ## Conclusion
-Regular expressions are a powerful tool for pattern matching and text manipulation. Mastering regex requires practice with different patterns and understanding the underlying mechanics of the syntax. To improve, try solving real-world problems (e.g., email validation, data extraction, or text parsing) using regex.
+Regular expressions are a powerful tool for pattern matching and text manipulation.To improve, try solving real-world problems (e.g., email validation, data extraction, or text parsing) using regex.
