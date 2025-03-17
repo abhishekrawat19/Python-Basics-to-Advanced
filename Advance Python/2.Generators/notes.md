@@ -2,6 +2,7 @@
 
 ## **What is a Generator?**
 A **generator** is a special type of function that generates a sequence of values **lazily** (on-demand) instead of returning them all at once. Generators are created using the `yield` keyword.
+It generate the sequence of value.
 
 ---
 
