@@ -172,6 +172,6 @@ print(text.isspace())  # Output: True
 ## Summary
 - **Modifying**: `upper()`, `lower()`, `title()`, `capitalize()`, `strip()`, `replace()`, `format()`, `encode()`
 - **Searching**: `find()`, `index()`, `count()`, `startswith()`, `endswith()`
-- **Splitting & Joining**: `split()`, `join()`
-- **Checking Properties**: `isalnum()`, `isalpha()`, `isdigit()`, `isspace()`
+- **Splitting & Joining**: `split()`, `join()`,`ljoin` , `rjoin`
+- **Checking Properties**: `isalnum()`, `isalpha()`, `isdigit()`, `isspace()` , `isupper`, `islower`
 
