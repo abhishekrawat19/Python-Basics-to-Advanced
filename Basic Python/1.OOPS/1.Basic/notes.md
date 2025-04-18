@@ -92,6 +92,12 @@ print(cust2.name, cust2.account_number)  # Output: Doe 67890
 ## **Constructor in Python**
 A constructor is a special method (`__init__`) that initializes an object when it is created.
 
+The __init__() method is the constructor in Python.
+
+It’s automatically called when you create a new object (p1 = Person("Alice", 30)).
+
+You use the constructor to initialize the object’s attributes.
+
 Example:
 ```python
 class Employee:
