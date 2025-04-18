@@ -8,8 +8,6 @@ Hiding the internal implementation by providing the functionality to the user is
 While working with real time project or designing the software or apps the Architects will make use of abstraction..
 
 
-# while working with real time project or designing the software ,apps the Architects
-    # will make use of abstraction..
 ### **Key Features of Abstraction:**
 1. **Hides Implementation Details:** The internal workings of a process are not exposed to the user.
 2. **Simplifies Software Development:** Users interact with only the necessary parts of the system.
